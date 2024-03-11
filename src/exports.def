@@ -1,0 +1,8 @@
+LIBRARY    "kafka_export"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
+GetAttachType
